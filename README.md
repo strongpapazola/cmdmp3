@@ -11,3 +11,7 @@ gcc cmdmp3.c -lwinmm -o cmdmp3.exe
  
 gcc cmdmp3win.c -lwinmm -mwindows -o cmdmp3win.exe
 ```
+
+# Install PyAudio
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio open and download pyaudio u need
+```pip install file_downloaded.whl```
